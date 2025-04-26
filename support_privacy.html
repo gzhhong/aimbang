@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      // 检测浏览器语言并跳转
+      const userLang = navigator.language || navigator.userLanguage;
+      const langPrefix = userLang.substring(0, 2).toLowerCase();
+
+      // 支持的语言映射
+      const supportedLangs = {
+        zh: "/zh/",
+        fr: "/fr/",
+        en: "/en/", // 默认语言
+      };
+
+      // 获取匹配的语言路径
+      const targetPath = supportedLangs[langPrefix] || "/en/";
+      window.location.href = targetPath;
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to your language...</p>
+  </body>
+</html>
