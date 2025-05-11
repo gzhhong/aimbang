@@ -6,11 +6,11 @@ This repository hosts the **Support** and **Privacy Policy** pages for our mobil
 
 These pages are automatically served via GitHub Pages. You can access them via the following links:
 
-- [Support](https://gzhhong.github.io/bangbang/support.html)
-- [Privacy Policy (Auto Redirect by Language)](https://gzhhong.github.io/bangbang/privacy.html)
-- [Privacy Policy in English](https://gzhhong.github.io/bangbang/privacy_en.html)
-- [隐私政策（中文）](https://gzhhong.github.io/bangbang/privacy_zh.html)
-- [Politique de Confidentialité (Français)](https://gzhhong.github.io/bangbang/privacy_fr.html)
+- [Support](https://gzhhong.github.io/aimbang/support.html)
+- [Privacy Policy (Auto Redirect by Language)](https://gzhhong.github.io/aimbang/privacy.html)
+- [Privacy Policy in English](https://gzhhong.github.io/aimbang/privacy_en.html)
+- [隐私政策（中文）](https://gzhhong.github.io/aimbang/privacy_zh.html)
+- [Politique de Confidentialité (Français)](https://gzhhong.github.io/aimbang/privacy_fr.html)
 
 ## 🔧 How it works
 
